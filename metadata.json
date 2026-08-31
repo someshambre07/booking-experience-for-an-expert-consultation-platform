@@ -1,0 +1,6 @@
+{
+  "name": "Consult Expert Booking",
+  "description": "Real-time expert consultation booking platform with live availability, instant slot reservation, edge-case conflict resolution, and booking history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
